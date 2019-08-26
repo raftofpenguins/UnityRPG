@@ -7,6 +7,8 @@ Assets/AssetStoreTools*
 
 # My addition(s)
 [Pp]rojectSettings/
+[Ll]ogs/
+[Pp]ackages/
 *.sublime-workspace
 *.sublime-project
 
